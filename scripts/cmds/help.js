@@ -64,9 +64,9 @@ module.exports = {
 ╭──────────────◊
 │ » Total commands: ${[...new Set(commands.values())].length}
 │ » A Powerful Telegram bot
-│ » itz Aryan
+│ » MASTERMIND X ROCKY
 ╰──────────◊
-「 Nix bot 」
+「 YOUR BABY 」
     `.trim();
 
     await message.reply(msg);
