@@ -1,5 +1,5 @@
 {
 "tokens": [
-"send your telegram bot token"
+"8290889030:AAFJncE1DRPz9-z_TXjvrPBLuD6MrSL5qT4"
 ]
 }
