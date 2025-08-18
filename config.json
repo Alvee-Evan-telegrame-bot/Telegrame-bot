@@ -1,18 +1,18 @@
 {
   "devMode": true,
   "timeZone": "Asia/Dhaka",
-  "prefix": "PREFIX",
+  "prefix": ".",
   "symbols": "●",
   "owner": {
-    "name": "YOUR_NAME",
-    "facebook": "FACEBOOK_ID",
-    "username": "TG_USERNAME"
+    "name": "MASTERMIND X ROCKY",
+    "facebook": "m.me/Alvee.Evan.Rocky.320",
+    "username": "@maxrokymax3"
   },
   "admin": [
-    "ADMIN_UID"
+    "1087968824"
   ],
   "vip": [
-    "VIP_UID"
+    "1087968824"
   ],
   "loadCmds": true,
   "loadEvents": true,
@@ -20,7 +20,7 @@
     "noAdmin": true,
     "whitelist": false,
     "list": [
-      "GROUP_ID1",
+      "1002613976415",
       "GROUP_ID2"
     ]
   },
