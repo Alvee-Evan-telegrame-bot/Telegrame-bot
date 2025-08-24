@@ -5,11 +5,11 @@ const baseApiUrl = "https://noobs-api.top/dipto/baby";
 const nix = {
     name: "baby",
     version: "0.0.1",
-    aliases: [],
+    aliases: ["bby", "bot", "bbe", "বট", "jan", "shijuka", "বেবি", "hi"],
     role: 0,
     description: "",
-    author: "DipTo with Nix",//convart by ArYAN
-    prefix: false,
+    author: "DipTo",//convart by Nix Team
+    prefix: true,
     category: "chat",
     type: "anyone",
     cooldown: 0,
@@ -33,7 +33,7 @@ async function onStart({ bot, message, msg, chatId, args, usages }) {
 
     try {
         if (!args[0]) {
-            const ran = ["Bolo baby", "hum", "Type !bby hi", "Type /bby hi"];
+            const ran = ["Bol baby khaico😾", "hum.kice ki kobi fast ko😾", "Type kor bby ki koro😸", "Type bby ki koro😼"];
             return message.reply(ran[Math.floor(Math.random() * ran.length)]);
         }
 
